@@ -1,0 +1,2363 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.454973593877554,
+          -34.611926404081636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 317725565,
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "countrycode": "AR",
+        "postcode": "C1405AQL",
+        "county": "Comuna 6",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "1903",
+        "street": "Avenida Gaona",
+        "district": "Caballito",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "description": "Zona Z - Zona de Juegos en Coto Gaona Caballito\n\nhttps://www.ze.com.ar\n\nJuegos modernos para los a los más chicos\n\nAv. Gaona 1956, C1416 Cdad. Autónoma de Buenos Aires"
+      },
+      "id": "I3MTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -71.30815911836734,
+          -41.13340792857143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 314934892,
+        "country": "Argentina",
+        "city": "San Carlos de Bariloche",
+        "countrycode": "AR",
+        "postcode": "8400",
+        "county": "Departamento Bariloche",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "176",
+        "street": "Gobernador León Quaglia",
+        "district": "Centro",
+        "osm_value": "house_number",
+        "state": "Río Negro",
+        "name": "*KPLAY*",
+        "locality": "San Carlos de Bariloche",
+        "description": "Espacio para los chicos, tiene algunos pinballs y juego más modernos"
+      },
+      "id": "UwOTQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.417748,
+          -34.610863
+        ]
+      },
+      "properties": {
+        "osm_id": 265330854,
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "countrycode": "AR",
+        "postcode": "C1204AAB",
+        "county": "Comuna 5",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "3636",
+        "street": "Avenida Rivadavia",
+        "district": "Almagro",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Acatraz",
+        "description": "Restaurante / Bar. Tiene varios fichines clásicos, flippers, también pool, tejo, bowling, etc"
+      },
+      "id": "QzNTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.41436375,
+          -34.559455400000004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 4524923,
+        "extent": [
+          -58.4317248,
+          -34.5510614,
+          -58.4011866,
+          -34.5678888
+        ],
+        "country": "Argentina",
+        "city": "Ciudad Autónoma de Buenos Aires",
+        "countrycode": "AR",
+        "postcode": "C1425",
+        "county": "Comuna 14",
+        "type": "house",
+        "osm_type": "R",
+        "osm_key": "aeroway",
+        "street": "Avenida Costanera Rafael Obligado",
+        "district": "Palermo",
+        "osm_value": "aerodrome",
+        "name": "Aeroparque Jorge Newbery",
+        "state": "Buenos Aires",
+        "description": "Los arcades están disponibles para jugar las 24hs en las puertas 2, 8 y 14.\nSon arcades recreados por Rearte",
+        "locality": "CABA"
+      },
+      "id": "YxMzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.322374,
+          -42.912931
+        ]
+      },
+      "properties": {
+        "osm_id": 297621094,
+        "country": "Argentina",
+        "city": "Esquel",
+        "countrycode": "AR",
+        "postcode": "U9200",
+        "county": "Departamento Futaleufú",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "777",
+        "street": "25 de Mayo",
+        "district": "Don Bosco",
+        "osm_value": "house_number",
+        "state": "Chubut",
+        "name": "Alimichinati Games",
+        "description": "tiene varios juegos de autos muy buenos, un arcade y tipo cyber"
+      },
+      "id": "Y4OTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -60.702258557142855,
+          -31.634763534693878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 1159270425,
+        "country": "Argentina",
+        "city": "Santa Fe",
+        "countrycode": "AR",
+        "postcode": "S3000",
+        "county": "Departamento La Capital",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "3573",
+        "street": "25 de Mayo",
+        "district": "Mariano Comas",
+        "osm_value": "house_number",
+        "state": "Santa Fe",
+        "name": "Antro",
+        "description": "Bar de fichines clásicos y recreados, tiene pinballs también\nhttps://www.instagram.com/antro.ok"
+      },
+      "id": "E5OTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.447072,
+          -34.599858
+        ]
+      },
+      "properties": {
+        "osm_id": 313601678,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1414CXR",
+        "county": "Comuna 15",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "75",
+        "street": "Serrano",
+        "district": "Villa Crespo",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Arcade Social Club",
+        "description": "Club privado de Arcades originales, se entra solo con reserva/invitación"
+      },
+      "id": "A5Mjc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.422922,
+          -34.593401
+        ]
+      },
+      "properties": {
+        "osm_id": 6123893478,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1181ADA",
+        "county": "Comuna 14",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "housenumber": "1460",
+        "street": "Gascón",
+        "district": "Palermo",
+        "osm_value": "pub",
+        "name": "Bar El Destello",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "description": "bar de fichines. Tiene un flipper"
+      },
+      "id": "Y1NDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.66545,
+          -32.941706
+        ]
+      },
+      "properties": {
+        "name": "Bar Ficha",
+        "description": "bar de fichines\n\nhttps://www.instagram.com/arcadeficha",
+        "city": "Rosario",
+        "county": "Argentina",
+        "locality": "Rosario",
+        "state": "Santa Fe",
+        "street": "Av. Francia",
+        "housenumber": "811",
+        "country": "Argentina"
+      },
+      "id": "E2MTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -68.8554512122449,
+          -32.89231747346939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 264790899,
+        "country": "Argentina",
+        "osm_key": "place",
+        "housenumber": "332",
+        "street": "Arístides Villanueva",
+        "countrycode": "AR",
+        "osm_value": "house_number",
+        "postcode": "5501",
+        "county": "Sección 5ª Residencial Sur",
+        "state": "Mendoza",
+        "type": "house",
+        "name": "Basilica's Bar",
+        "description": "Bar de juegos que tiene arcades\nhttps://www.instagram.com/basilicas_bar"
+      },
+      "id": "YyNTc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.3912621,
+          -34.5958238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 266256046,
+        "extent": [
+          -58.3919531,
+          -34.5957961,
+          -58.389919,
+          -34.5958403
+        ],
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1060ABC",
+        "county": "Comuna 2",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "district": "Recoleta",
+        "osm_value": "secondary",
+        "name": "Bond Street - Santo Infierno",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "description": "En el local de la Bond Street Santo Infierno, hay bar con arcades\n",
+        "locality": "CABA",
+        "city": "CABA",
+        "street": "Santa Fe",
+        "housenumber": "1670"
+      },
+      "id": "E4NDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.472175,
+          -34.817025
+        ]
+      },
+      "properties": {
+        "osm_id": 11499525148,
+        "country": "Argentina",
+        "city": "Monte Grande",
+        "countrycode": "AR",
+        "postcode": "1842",
+        "county": "Partido de Esteban Echeverría",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "street": "Avenida Dardo Rocha",
+        "osm_value": "pub",
+        "name": "BrotherHood",
+        "state": "Buenos Aires",
+        "description": "Bar temático de juegos, con fichines, flippers"
+      },
+      "id": "I5NzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.432659,
+          -34.587123
+        ]
+      },
+      "properties": {
+        "osm_id": 351925990,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1414CYN",
+        "locality": "Palermo Hollywood",
+        "county": "Distrito Audiovisual",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "5640",
+        "street": "Honduras",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Burgertify",
+        "description": "Hamburguesería con fichines recreados y alguno clásicos\nhttps://www.instagram.com/burgertify"
+      },
+      "id": "Y2OTY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.45547261836735,
+          -34.565463130612244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 304166369,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1428CPD",
+        "county": "Comuna 13",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "2513",
+        "street": "La Pampa",
+        "district": "Belgrano",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Burgertify",
+        "description": "Cadena de local de hamburguesas con emuladores de arcades y consolas. Con ambientación retro gamer\nhttps://www.instagram.com/burgertify"
+      },
+      "id": "E4NDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.447937,
+          -34.590607
+        ]
+      },
+      "properties": {
+        "osm_id": 1267230839,
+        "extent": [
+          -58.4483913,
+          -34.5902106,
+          -58.4475546,
+          -34.5910116
+        ],
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "countrycode": "AR",
+        "postcode": "C1427BPA",
+        "county": "Distrito Audiovisual",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "amenity",
+        "housenumber": "6271",
+        "street": "Avenida Corrientes",
+        "district": "Chacarita",
+        "osm_value": "events_venue",
+        "name": "C Complejo Art Media",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "description": "Fichines solo en eventos, recitales, fiestas. Tienen varios para jugar gratis. \nhttps://www.instagram.com/ccomplejoartmedia"
+      },
+      "id": "YxMTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.81566140500682,
+          -27.47699865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 1074795760,
+        "extent": [
+          -58.8163575,
+          -27.4764485,
+          -58.8149616,
+          -27.477655
+        ],
+        "country": "Argentina",
+        "city": "Corrientes",
+        "countrycode": "AR",
+        "postcode": "3402",
+        "locality": "Barrio Antartida Argentina",
+        "county": "Departamento Capital",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "shop",
+        "street": "Avenida Chacabuco",
+        "district": "Seccional 5ta",
+        "osm_value": "supermarket",
+        "name": "Carrefour",
+        "state": "Corrientes",
+        "description": "Carrefour Hipermercado Corrientes\n\n"
+      },
+      "id": "YwNDY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -65.20426414693878,
+          -26.82881018163265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 368765187,
+        "country": "Argentina",
+        "city": "San Miguel de Tucumán",
+        "countrycode": "AR",
+        "postcode": "T4000",
+        "locality": "Centro",
+        "county": "Departamento Capital",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "164",
+        "street": "25 de Mayo de 1810",
+        "osm_value": "house_number",
+        "state": "Tucumán",
+        "name": "Carroussel Park",
+        "description": "Espacio con recreativas modernas, variedad de juegos y juegos para niñxs"
+      },
+      "id": "YwMzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.412812,
+          -34.602838
+        ]
+      },
+      "properties": {
+        "osm_id": 5923963086,
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "countrycode": "AR",
+        "postcode": "C1172ABK",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "housenumber": "557",
+        "street": "Gallo",
+        "district": "Balvanera",
+        "osm_value": "bar",
+        "name": "Casa Colombo",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "description": "Bar Rockero. Tiene unos pocos fichines recreados"
+      },
+      "id": "U5OTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.8064737,
+          -27.4715615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 7161278685,
+        "country": "Argentina",
+        "city": "Corrientes",
+        "countrycode": "AR",
+        "postcode": "3400",
+        "locality": "Barrio Villa Celia",
+        "county": "Departamento Capital",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "housenumber": "3525",
+        "street": "Avenida Presidente Doctor Raúl Alfonsín",
+        "district": "Seccional 5ta",
+        "osm_value": "fast_food",
+        "name": "Centenario Shopping",
+        "state": "Corrientes",
+        "description": "Centenario Shopping\n\ncentenarioshopping.com.ar\n\nJuegos modernos para los chicos"
+      },
+      "id": "MxNTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -56.8620857692146,
+          -37.11359725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 416745312,
+        "extent": [
+          -56.8622718,
+          -37.1134142,
+          -56.8618997,
+          -37.1137803
+        ],
+        "country": "Argentina",
+        "city": "Pinamar",
+        "countrycode": "AR",
+        "postcode": "7167",
+        "county": "Partido de Pinamar",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "building",
+        "street": "Simbad el Marino",
+        "osm_value": "yes",
+        "name": "CenterPlay",
+        "state": "Buenos Aires",
+        "description": "espacio con arcades clásicos, pinballs y recreativas más modernas para los más chicos\n"
+      },
+      "id": "c1MDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.418432,
+          -34.624415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Cervecería Prancing Pony",
+        "description": "Bar tematico de Harry potter tiene un fichin recreado\nwww.instagram.com/cerveceriatheprancingpony",
+        "city": "CABA",
+        "country": "Argentina",
+        "district": "CABA",
+        "housenumber": "3737",
+        "locality": "CABA",
+        "state": "Buenos Aires",
+        "street": "Carlos Calvo"
+      },
+      "id": "U1OTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.39352185510204,
+          -34.70231848571429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 678780829,
+        "country": "Argentina",
+        "city": "Lanús Oeste",
+        "countrycode": "AR",
+        "postcode": "1824",
+        "county": "Partido de Lanús",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "111",
+        "street": "Gobernador Carlos Tejedor",
+        "district": "Lanús",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Cerveza Patagonia - Refugio Lanús",
+        "description": "Dispone de un arcade recreado (emulador)\nhttps://www.instagram.com/patagonia.lanus"
+      },
+      "id": "U1MzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -56.678156,
+          -36.688167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 12505716379,
+        "country": "Argentina",
+        "city": "San Bernardo del Tuyú",
+        "countrycode": "AR",
+        "postcode": "B7111CFX",
+        "county": "Partido de La Costa",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "street": "Juan de Garay",
+        "osm_value": "ice_cream",
+        "name": "Charlie - Juegos de Video",
+        "state": "Buenos Aires",
+        "description": "Arcades clásicos, pinballs y recreativas modernas"
+      },
+      "id": "g3MjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.458051,
+          -34.599367
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 311606289,
+        "country": "Argentina",
+        "osm_key": "place",
+        "housenumber": "2277",
+        "street": "Añasco",
+        "countrycode": "AR",
+        "district": "La Paternal",
+        "osm_value": "house_number",
+        "postcode": "C1416DJD",
+        "county": "Distrito Audiovisual",
+        "type": "house",
+        "name": "Clarck Flipper y Arcades",
+        "description": "Venta, alquiler, y reparación de máquinas recreativas. Se puede ir a jugar también\nhttps://www.instagram.com/clarckargentina"
+      },
+      "id": "YxMzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.385975,
+          -34.61099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Club 404",
+        "description": "En el subsuelo del centro cultural Tacheles, hay una colección de arcades clásicos originales, así como nuevos arcades nacionales, juegos nuevos, emulados, customizados, etc. Está disponible su visita en eventos determinados\nhttps://www.instagram.com/club__404/",
+        "city": "CABA",
+        "country": "Argentina",
+        "district": "caba",
+        "housenumber": "1475",
+        "locality": "caba",
+        "street": "Adolfo Alsina",
+        "state": "Buenos Aires"
+      },
+      "id": "k1NTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.876480272226786,
+          -32.3693402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 834835262,
+        "extent": [
+          -58.8766039,
+          -32.3692331,
+          -58.8763561,
+          -32.3694205
+        ],
+        "country": "Argentina",
+        "city": "Basavilbaso",
+        "countrycode": "AR",
+        "postcode": "3710",
+        "county": "Distrito Genacito",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "building",
+        "street": "Avenida San Martín",
+        "osm_value": "yes",
+        "name": "Club Atlético Basavilbaso Sede Social",
+        "state": "Entre Ríos",
+        "description": "Espacio de arcades y pool\n\nBaron Hirchs, Av. San Martín y, E3170 Basavilbaso, Entre Ríos\n\nhttps://www.instagram.com/pmpoolgames/\n"
+      },
+      "id": "M0Mzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.459884959183675,
+          -34.598063857142854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 311606174,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1416DJG",
+        "locality": "La Carbonilla",
+        "county": "Distrito Audiovisual",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "2508",
+        "street": "General Manuel A. Rodríguez",
+        "district": "La Paternal",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Club Conjura",
+        "description": "Centro cultural con dos pinballs y un arcade multi recreado\nhttps://www.instagram.com/club.conjura"
+      },
+      "id": "U2NTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.288821,
+          -34.70764
+        ]
+      },
+      "properties": {
+        "name": "CLUB DE ARTE TEMPUJA",
+        "description": "Centro cultural. Club de Arte. Tiene varios fichines para jugar",
+        "locality": "Bernal",
+        "state": "Buenos Aires",
+        "county": "Argentina",
+        "district": "Bernal",
+        "city": "Quilmes",
+        "street": "Bernal 56"
+      },
+      "id": "E0NzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -64.19230762857143,
+          -31.424722971428572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 319622263,
+        "country": "Argentina",
+        "city": "Córdoba",
+        "countrycode": "AR",
+        "postcode": "X5000",
+        "county": "Pedanía Capital",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "843",
+        "street": "Belgrano",
+        "district": "Güemes",
+        "osm_value": "house_number",
+        "state": "Córdoba",
+        "name": "Club de Previas",
+        "description": "Bar con juegos diversos, dispone de flippers y arcades clásicos\nhttps://www.instagram.com/club_deprevias"
+      },
+      "id": "M4MDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -56.7178440625,
+          -36.359074139583335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 250438049,
+        "country": "Argentina",
+        "city": "San Clemente del Tuyú",
+        "countrycode": "AR",
+        "postcode": "7105",
+        "locality": "Centro",
+        "county": "Partido de La Costa",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "2252",
+        "street": "Calle 1",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Crazy Park",
+        "description": "Espacio de recreativas orientado a los más chicos, actualmente tiene un fichin clásico y otros juegos más modernos"
+      },
+      "id": "g3MjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.391304,
+          -34.625439
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 366556366,
+        "country": "Argentina",
+        "osm_key": "place",
+        "housenumber": "1420",
+        "street": "Avenida Entre Ríos",
+        "countrycode": "AR",
+        "district": "San Cristóbal",
+        "osm_value": "house_number",
+        "postcode": "1133",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "type": "house",
+        "name": "Cyber Play Uno 420",
+        "description": "Lugar de recreativas, fichines, flippers, videojuegos modernos, lugar de eventos, etc"
+      },
+      "id": "UzMzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.370907480808086,
+          -34.6585092969697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 530314975,
+        "country": "Argentina",
+        "city": "Avellaneda",
+        "countrycode": "AR",
+        "postcode": "1870",
+        "county": "Partido de Avellaneda",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "219",
+        "street": "Avenida Bartolomé Mitre",
+        "district": "Crucecita",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "EGAExperience",
+        "description": "Bar Gamer, con zona arcade emulados y otros videojuegos modernos\nhttps://www.instagram.com/egaexperience"
+      },
+      "id": "k5MTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -56.690204,
+          -36.543876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 1083825960,
+        "country": "Argentina",
+        "city": "Santa Teresita",
+        "countrycode": "AR",
+        "postcode": "7107",
+        "county": "Partido de La Costa",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "1325",
+        "street": "Calle 2",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "EL GOLPE entretenimientos",
+        "description": "Espacio con bastantes arcades clásicos y pinballs\n\nC. 2 1350, B7107",
+        "locality": "Santa Teresita"
+      },
+      "id": "cyNjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.893385,
+          -27.357896
+        ]
+      },
+      "properties": {
+        "osm_id": 282641682,
+        "country": "Argentina",
+        "city": "Posadas",
+        "countrycode": "AR",
+        "postcode": "3300",
+        "locality": "Villa Sarita",
+        "county": "Departamento Capital",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "869",
+        "street": "Alberdi",
+        "district": "Centro de Integración Territorial Riberas del Paraná",
+        "osm_value": "house_number",
+        "state": "Misiones",
+        "name": "El Templo Tattoo y Bar",
+        "description": "Bar con un fichin recreado para jugar"
+      },
+      "id": "YxNDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.49937806063988,
+          -34.62015995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 733462342,
+        "extent": [
+          -58.4996396,
+          -34.6199488,
+          -58.4991203,
+          -34.6203641
+        ],
+        "country": "Argentina",
+        "osm_key": "leisure",
+        "countrycode": "AR",
+        "district": "Monte Castro",
+        "osm_value": "park",
+        "name": "Espacio verde Monte Castro",
+        "county": "Comuna 10",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "type": "other",
+        "description": "Zona Z, Zona de Juegos de Coto\nhttps://www.ze.com.ar\n\nTiene bastantes juegos modernos pensados para los más chicos",
+        "city": "CABA",
+        "housenumber": "1701",
+        "locality": "Monte Castro"
+      },
+      "id": "YzMjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.412874,
+          -34.597864
+        ]
+      },
+      "properties": {
+        "osm_id": 265437751,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1187AAG",
+        "county": "Comuna 2",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "3271",
+        "street": "Avenida Córdoba",
+        "district": "Recoleta",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "FELIZA GAY BAR",
+        "description": "bar y club social LGBTiq+, tiene fichines\nhttps://www.instagram.com/felizarcoiris"
+      },
+      "id": "UyNTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -57.547637,
+          -38.010283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 431706905,
+        "country": "Argentina",
+        "city": "Mar del Plata",
+        "countrycode": "AR",
+        "postcode": "7600",
+        "county": "Partido de General Pueyrredón",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "2019",
+        "street": "Rawson",
+        "district": "Plaza Peralta Ramos",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Fichin",
+        "description": "Bar de fichines clásicos\n\nhttps://www.instagram.com/fichinbar"
+      },
+      "id": "k3Mzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.432721,
+          -34.587077
+        ]
+      },
+      "properties": {
+        "osm_id": 351925990,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1414CYN",
+        "locality": "Palermo Hollywood",
+        "county": "Distrito Audiovisual",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "5275",
+        "street": "Honduras",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Flynn's Arcade Bar",
+        "description": "Bar ambientado retro arcade, con fichines recreados y juegos de mesa"
+      },
+      "id": "E0ODU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -65.30595411020408,
+          -43.25183456938775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 300273024,
+        "country": "Argentina",
+        "city": "Trelew",
+        "countrycode": "AR",
+        "postcode": "U9100",
+        "county": "Departamento Rawson",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "332",
+        "street": "Avenida Fontana",
+        "district": "Presidente Dr. Raúl Ricardo Alfonsín",
+        "osm_value": "house_number",
+        "state": "Chubut",
+        "name": "Fun Park Trelew",
+        "description": "Sucursal de Fun Park Trelew con recreativas modernas\nhttps://www.instagram.com/funpark.oficial/"
+      },
+      "id": "UwOTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -60.6698642,
+          -32.9594327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 5594588848,
+        "country": "Argentina",
+        "city": "Rosario",
+        "countrycode": "AR",
+        "postcode": "2003",
+        "county": "Gran Rosario",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "2301",
+        "street": "Avenida Francia",
+        "district": "Centro",
+        "osm_value": "house",
+        "state": "Santa Fe",
+        "name": "Gaming Bar",
+        "description": "Bar Hamburguesería con arcade\nhttps://www.instagram.com/gamingbar.ros"
+      },
+      "id": "Q0MTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.39331606938776,
+          -34.70295686326531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 678780788,
+        "country": "Argentina",
+        "city": "Lanús Oeste",
+        "countrycode": "AR",
+        "postcode": "1824",
+        "county": "Partido de Lanús",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "2751",
+        "street": "Enrique Del Valle Iberlucea",
+        "district": "Lanús",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Go Play Lanusia",
+        "description": "Moderna cadena de recreativas. Dispone de maquinas modernas\nhttps://www.instagram.com/goplay.juegos"
+      },
+      "id": "U1MjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.40295057755102,
+          -34.76507032653061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 727615012,
+        "country": "Argentina",
+        "city": "Lomas de Zamora",
+        "countrycode": "AR",
+        "postcode": "B1832DEF",
+        "locality": "Lomitas",
+        "county": "Partido de Lomas de Zamora",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "370",
+        "street": "Bartolomé Mitre",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Go Play Las Lomitas",
+        "description": "Moderna cadena de recreativas. Dispone de maquinas modernas\nhttps://www.instagram.com/goplay.juegos"
+      },
+      "id": "AyNDg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.439073,
+          -34.628659
+        ]
+      },
+      "properties": {
+        "osm_id": 321556278,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1424CIS",
+        "county": "Comuna 7",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "843",
+        "street": "Avenida Directorio",
+        "district": "Parque Chacabuco",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Hormiga Negra Caballito",
+        "description": "Cervecería, tiene un fichin para jugar"
+      },
+      "id": "IwNzA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -56.68966,
+          -36.538189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 1241835921,
+        "extent": [
+          -56.6892937,
+          -36.5378721,
+          -56.6889742,
+          -36.5381799
+        ],
+        "country": "Argentina",
+        "city": "Santa Teresita",
+        "countrycode": "AR",
+        "postcode": "B7107",
+        "county": "Partido de La Costa",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "tourism",
+        "housenumber": "747",
+        "street": "Avenida Costanera",
+        "osm_value": "hotel",
+        "name": "Hosteria Santa Teresita",
+        "state": "Buenos Aires",
+        "description": "Espacio con bastantes arcades clásicos, pinballs y pool\n\nC. 2 n° 777, B7107 Santa Teresita, Provincia de Buenos Aires"
+      },
+      "id": "MyNzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.444283,
+          -34.60005
+        ]
+      },
+      "properties": {
+        "osm_id": 313601599,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1414AFD",
+        "county": "Comuna 15",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "763",
+        "street": "Murillo",
+        "district": "Villa Crespo",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Innova Cyber Cafe",
+        "description": "Cyber Cafe, juegos modernos, no hay fichines. \nhttps://www.instagram.com/innovacybercafe"
+      },
+      "id": "IzNzk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -60.70127815714286,
+          -31.63847892857143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 1156979568,
+        "country": "Argentina",
+        "city": "Santa Fe",
+        "countrycode": "AR",
+        "postcode": "S3000",
+        "county": "Departamento La Capital",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "2357",
+        "street": "Santiago del Estero",
+        "district": "Ex-Plaza España",
+        "osm_value": "house_number",
+        "state": "Santa Fe",
+        "name": "Insert Coin Nights",
+        "description": "Hermoso bar de arcade con arcades clásicos y flippers\nhttps://www.instagram.com/insertcoinnights"
+      },
+      "id": "I2NDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.42000982857143,
+          -34.62474570612245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 361588016,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1230ABO",
+        "county": "Comuna 5",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "3870",
+        "street": "Carlos Calvo",
+        "district": "Boedo",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Jobs Bar",
+        "description": "bar con arcades recreados, originales, pools y otros juegos\nhttps://www.instagram.com/jobsbar_oficial/",
+        "city": "CABA"
+      },
+      "id": "UzODQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.421588034693876,
+          -34.59269916326531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 351973969,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1180ACI",
+        "locality": "Palermo Soho",
+        "county": "Comuna 14",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "4139",
+        "street": "El Salvador",
+        "district": "Palermo",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Jobs Bar",
+        "description": "bar con arcades recreados, originales, pools y otros juegos\nhttps://www.instagram.com/jobsbar_oficial/",
+        "city": "CABA"
+      },
+      "id": "cyMjU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.792418,
+          -34.634724
+        ]
+      },
+      "properties": {
+        "name": "Jungle Game Entertainment",
+        "description": "Entrada sobre avenida victorica\nEspacio dentro de Nine Shopping. Con varios juegos para niños y tiene algunos fichines",
+        "city": "Moreno",
+        "state": "Buenos Aires",
+        "locality": "Moreno",
+        "district": "Moreno",
+        "county": "Argentina",
+        "country": "Argentina"
+      },
+      "id": "YyMTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.320296,
+          -42.914421
+        ]
+      },
+      "properties": {
+        "osm_id": 297620078,
+        "country": "Argentina",
+        "city": "Esquel",
+        "countrycode": "AR",
+        "postcode": "U9200",
+        "county": "Departamento Futaleufú",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "579",
+        "street": "25 de Mayo",
+        "district": "Don Bosco",
+        "osm_value": "house_number",
+        "state": "Chubut",
+        "name": "KPlay",
+        "description": "mas que nada juegos físicos, pero hay un arcade de tiros"
+      },
+      "id": "AzNDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.215521,
+          -51.620354
+        ]
+      },
+      "properties": {
+        "osm_id": 7160739038,
+        "country": "Argentina",
+        "city": "Río Gallegos",
+        "countrycode": "AR",
+        "postcode": "9400",
+        "county": "Güer Aike",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "amenity",
+        "street": "España",
+        "district": "Zona Centro",
+        "osm_value": "fast_food",
+        "name": "Moma",
+        "state": "Santa Cruz",
+        "description": "Juegos físicos, arcades de tiros"
+      },
+      "id": "k0NjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.706224,
+          -34.546502
+        ]
+      },
+      "properties": {
+        "name": "MuchPlay",
+        "country": "Argentina",
+        "city": "San Miguel",
+        "county": "Argentina",
+        "housenumber": "1061",
+        "street": "AV. PRESIDENTE PERÓN",
+        "state": "buenos aires",
+        "locality": "Muñiz",
+        "description": "juegos físicos, orientado a chicos, algunos juegos de carreras \nhttps://www.instagram.com/muchplay.sanmiguel"
+      },
+      "id": "AwOTQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.213357,
+          -34.763854
+        ]
+      },
+      "properties": {
+        "osm_id": 652954260,
+        "country": "Argentina",
+        "city": "Berazategui",
+        "countrycode": "AR",
+        "postcode": "B1884CUS",
+        "county": "Partido de Berazategui",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "4422",
+        "street": "Avenida 14 - Gastón F. Rigolleau",
+        "district": "Barrio 12 de Octubre",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Multiverso Bar",
+        "description": "Bar temático con varios fichines reconstruidos\n\nhttps://www.instagram.com/multiverso_bar/"
+      },
+      "id": "QzMDM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41089,
+          -34.603796
+        ]
+      },
+      "properties": {
+        "name": "Neverland Abasto Shopping",
+        "description": "El espacio funciona dentro del shopping, está enfocado para niños, dispone de algunos fichines\nhttps://www.instagram.com/neverlandparks",
+        "country": "Argentina",
+        "district": "Abasto",
+        "street": "Corrientes",
+        "state": "Buenos Aires",
+        "locality": "Ciudad Autonoma de Buenos Aires",
+        "city": "Ciudad Autonoma de Buenos Aires"
+      },
+      "id": "IzNTA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.40416897474747,
+          -34.575612640404046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 413442322,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1425CLA",
+        "locality": "Barrio Parque",
+        "county": "Comuna 14",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "3172",
+        "street": "Jerónimo Salguero",
+        "district": "Palermo",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Neverland Alcorta Shopping",
+        "description": "Cadena moderna de recreativas. Recreativas modernas orientadas a los más chicos\nhttps://www.instagram.com/neverlandparks"
+      },
+      "id": "I3OTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.3683013984375,
+          -34.67592105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 653479781,
+        "extent": [
+          -58.3683373,
+          -34.6758916,
+          -58.3682655,
+          -34.6759505
+        ],
+        "country": "Argentina",
+        "city": "Avellaneda",
+        "countrycode": "AR",
+        "postcode": "1870",
+        "locality": "Barrio Güemes",
+        "county": "Partido de Avellaneda",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "amenity",
+        "street": "Vélez Sarsfield",
+        "district": "Crucecita",
+        "osm_value": "reception_desk",
+        "name": "Neverland Alto Avellaneda",
+        "state": "Buenos Aires",
+        "description": "Cadena moderna de recreativas. Recreativas modernas orientadas a los más chicos\nhttps://www.instagram.com/neverlandparks"
+      },
+      "id": "k4NjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.487708881927716,
+          -34.545186784337346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 316252695,
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "countrycode": "AR",
+        "postcode": "C1430DAK",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "3626",
+        "street": "Vedia",
+        "district": "Saavedra",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Neverland Dot Baires Shopping",
+        "description": "Cadena moderna de recreativas. Recreativas modernas orientadas a los más chicos\nhttps://www.instagram.com/neverlandparks"
+      },
+      "id": "UwODY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.275844,
+          -34.76306
+        ]
+      },
+      "properties": {
+        "name": "Oldies Quilmes",
+        "street": "Av. Calchaquí",
+        "housenumber": "4300",
+        "locality": "Ezpeleta",
+        "state": "Buenos Aires",
+        "district": "Ezpeleta",
+        "county": "Argentina",
+        "city": "Quilmes",
+        "description": "Bar retro ambientado con fichines, flippers y otros juegos analógicos y virtuales\n\nhttps://www.instagram.com/oldies_quilmes",
+        "country": "Argentina"
+      },
+      "id": "QwNzg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -60.2209241375,
+          -33.33253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 759069261,
+        "country": "Argentina",
+        "city": "San Nicolás de los Arroyos",
+        "countrycode": "AR",
+        "postcode": "2900",
+        "county": "Partido de San Nicolás",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "307",
+        "street": "Bartolomé Mitre",
+        "district": "Centro",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Pecos entretenimientos ",
+        "description": "Espacio de fichines retro originales y modernos para chicos\n"
+      },
+      "id": "g2ODI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.448978,
+          -34.604091
+        ]
+      },
+      "properties": {
+        "osm_id": 313474529,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1416CRD",
+        "county": "Comuna 15",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "528",
+        "street": "Galicia",
+        "district": "Villa Crespo",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Perro negro",
+        "description": "Cervecería con fichines originales"
+      },
+      "id": "c5ODU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.375082,
+          -34.616168
+        ]
+      },
+      "properties": {
+        "osm_id": 252207122,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1070AAP",
+        "county": "Comuna 1",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "631",
+        "street": "Chile",
+        "district": "Monserrat",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Pier 54",
+        "description": "Cervecería con fichines, flipper, pool y otros juegos"
+      },
+      "id": "QxNTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.473581,
+          -34.605153
+        ]
+      },
+      "properties": {
+        "osm_id": 307817642,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1416ACS",
+        "locality": "La Carbonilla",
+        "county": "Comuna 15",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "2173",
+        "street": "Álvarez Jonte",
+        "district": "La Paternal",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Pinbar",
+        "description": "Bar de flippers, con varios flippers originales de época"
+      },
+      "id": "Q1ODI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.09275,
+          -35.449662
+        ]
+      },
+      "properties": {
+        "name": "Pulpería Gándara",
+        "description": "Pulpería que tiene un fichin recreado!\nhttps://www.instagram.com/pulperiagandara",
+        "country": "Argentina",
+        "city": "Chascomus",
+        "street": "Acceso a Gándara",
+        "state": "buenos aires",
+        "locality": "Gándara"
+      },
+      "id": "Y2MDk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -65.294878,
+          -24.19193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Replay Café Bar",
+        "description": "Bar de juegos, con consolas y fichin recreador con emuladores\n\nJuana Manuela Gorriti 302 2do Piso, B°, Y4600 San Salvador de Jujuy, Jujuy\nhttps://www.instagram.com/replaycafebar/",
+        "city": "San Salvador de Jujuy",
+        "country": "Argentina",
+        "state": "Jujuy",
+        "street": "Juana Manuela Gorriti ",
+        "housenumber": "302 "
+      },
+      "id": "YxNzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.433430724489796,
+          -34.58181675510205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 331574259,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1414CWA",
+        "locality": "Palermo Hollywood",
+        "county": "Comuna 14",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "5596",
+        "street": "Nicaragua",
+        "district": "Palermo",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Retroclub",
+        "description": "Lugar totalmente ambientado en los 90. Tiene un fichin de Mortal Kombat, se visita solo con reserva previa\nhttps://www.instagram.com/retroclub.ar/"
+      },
+      "id": "k0MDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.43015919387755,
+          -34.615068163265306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 363328192,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1424CEA",
+        "county": "Comuna 5",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "28",
+        "street": "Río de Janeiro",
+        "district": "Almagro",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Río Patio Cultural",
+        "description": "Bar centro cultural, actualmente con flippers y fichines clásicos\nhttps://www.instagram.com/rio.patiocultural"
+      },
+      "id": "ExODU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.436419,
+          -34.793816
+        ]
+      },
+      "properties": {
+        "name": "Rothar",
+        "description": "Boulevard Santa Catalina 330,  Llavallol. Bar. Comidas, bebidas varias, tiene varios fichines de época y adaptado\nhttps://www.instagram.com/rotharbar",
+        "county": "Argentina",
+        "state": "Buenos Aires",
+        "street": "Boulevard Santa Catalina ",
+        "housenumber": "330",
+        "locality": "Lavallol",
+        "city": "Lomas de Zamora",
+        "country": "Argentina",
+        "district": "Lavallol"
+      },
+      "id": "EwNDI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -55.91692289591837,
+          -27.369096340816327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 572699436,
+        "country": "Argentina",
+        "city": "Posadas",
+        "countrycode": "AR",
+        "postcode": "3300",
+        "locality": "Los Pinos",
+        "county": "Departamento Capital",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "2306",
+        "street": "Avenida San Martín",
+        "district": "Villa Cabello",
+        "osm_value": "house_number",
+        "state": "Misiones",
+        "name": "Safe Zone",
+        "description": "Bar de videojuegos, consolas retro y modernas, multi arcade emulados\nhttps://www.instagram.com/safezoneok"
+      },
+      "id": "M3NTE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.9627165,
+          -27.4309441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 10712435708,
+        "country": "Argentina",
+        "city": "Resistencia",
+        "countrycode": "AR",
+        "postcode": "H3500ALD",
+        "county": "Departamento San Fernando",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "shop",
+        "street": "Avenida Sarmiento",
+        "osm_value": "perfumery",
+        "name": "Shopping Sarmiento",
+        "state": "Chaco",
+        "description": "Shopping con área de juegos recreativos para los chicos"
+      },
+      "id": "MxMjE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -60.0762380875,
+          -38.8579007875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 979719208,
+        "country": "Argentina",
+        "city": "Claromecó",
+        "countrycode": "AR",
+        "postcode": "7505",
+        "county": "Partido de Tres Arroyos",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "262",
+        "street": "Avenida 26",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Summer Game",
+        "description": "Espacio con arcades clásicos, recreativas modernas, pools, etc"
+      },
+      "id": "Q2OTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.54215815833333,
+          -34.59701624583333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 680438550,
+        "country": "Argentina",
+        "city": "Santos Lugares",
+        "countrycode": "AR",
+        "postcode": "B1676",
+        "county": "Partido de Tres de Febrero",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "3716",
+        "street": "428 - Neuquén",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Surfside 6 Vintage Garage",
+        "description": "Arcades originales, recreados, pinpalls y otros juegos, con  espacio que se alquila para eventos\nhttps://www.instagram.com/surfside6vintagegarage"
+      },
+      "id": "Y3MDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -65.42234566666667,
+          -24.790307766666665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 625874342,
+        "country": "Argentina",
+        "city": "Salta",
+        "countrycode": "AR",
+        "postcode": "4400",
+        "county": "Rosario de Lerma",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "1517",
+        "street": "Rudecindo Alvarado",
+        "district": "B Calixto Gauna",
+        "osm_value": "house_number",
+        "state": "Salta",
+        "name": "Terra Game",
+        "description": "Bar gamer. Comida, bebida, arcades recreados, consolas y demases\nhttps://www.instagram.com/terragame_s"
+      },
+      "id": "c5MjM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -57.5441063,
+          -38.0032138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 3447171405,
+        "country": "Argentina",
+        "city": "Mar del Plata",
+        "countrycode": "AR",
+        "postcode": "B7600JUW",
+        "county": "Partido de General Pueyrredón",
+        "type": "house",
+        "osm_type": "N",
+        "osm_key": "place",
+        "housenumber": "2200",
+        "street": "Belgrano",
+        "district": "Centro",
+        "osm_value": "house",
+        "state": "Buenos Aires",
+        "name": "The King Video Juegos",
+        "description": "The King Video Juegos es un espacio con arcades clásicos y fichines"
+      },
+      "id": "MxNTU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.404934,
+          -34.765612
+        ]
+      },
+      "properties": {
+        "osm_id": 684679650,
+        "country": "Argentina",
+        "city": "Lomas de Zamora",
+        "countrycode": "AR",
+        "postcode": "1870",
+        "locality": "Lomitas",
+        "county": "Partido de Lomas de Zamora",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "94",
+        "street": "Vicente Oliden",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Three Monkeys Brew Bar",
+        "description": "Cervecería con fichines\nhttps://www.instagram.com/threemonkeysbrewbar/"
+      },
+      "id": "UyMTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -57.954663716666666,
+          -34.917598570833334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 303805011,
+        "country": "Argentina",
+        "city": "La Plata",
+        "countrycode": "AR",
+        "postcode": "1900",
+        "county": "Partido de La Plata",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "1584",
+        "street": "Diagonal 74",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Tom Arcade Craft Beer",
+        "description": "Bar con algunos arcades clásicos\nhttps://www.instagram.com/tom.cerveceria"
+      },
+      "id": "Y5MTI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.497520032653064,
+          -34.59653890204082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 174174310,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "C1419HTH",
+        "county": "Comuna 11",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "5737",
+        "street": "Avenida San Martín",
+        "district": "Villa Devoto",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "Trapa Bar",
+        "description": "bar de videojuegos, clásicos, modernos, pinballs\nhttps://www.instagram.com/trapabar/"
+      },
+      "id": "U0OTM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -56.967148,
+          -37.254034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 765837495,
+        "extent": [
+          -56.968179,
+          -37.2529766,
+          -56.9668597,
+          -37.2537576
+        ],
+        "country": "Argentina",
+        "city": "Villa Gesell",
+        "countrycode": "AR",
+        "postcode": "B7165",
+        "county": "Partido de Villa Gesell",
+        "type": "street",
+        "osm_type": "W",
+        "osm_key": "highway",
+        "osm_value": "residential",
+        "name": "Video Juegos Space",
+        "state": "Buenos Aires",
+        "district": "234",
+        "street": "Avenida 3",
+        "description": "Arcades clásicos, modernos, pinballs y otras recreativas para los más chicos\nhttps://www.instagram.com/space.vg/",
+        "locality": "Villa Gesell"
+      },
+      "id": "IzNDQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -56.68891321875,
+          -36.5445414875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 1083259953,
+        "country": "Argentina",
+        "city": "Santa Teresita",
+        "countrycode": "AR",
+        "postcode": "7107",
+        "county": "Partido de La Costa",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "32",
+        "street": "Avenida 41",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "VR juegos",
+        "description": "Local con arcades clásicos, flippers y otros juegos\nhttps://www.facebook.com/vrjuegosenfamilia/"
+      },
+      "id": "kzNjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -56.689947,
+          -36.53537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "VR juegos",
+        "description": "Espacio con bastantes arcades clásicos y pinballs\n\nAv. 32 240, B7107 Santa Teresita, Provincia de Buenos Aires",
+        "city": "Santa Teresita",
+        "country": "Argentina",
+        "county": "Argentina",
+        "district": "Santa Teresita",
+        "housenumber": "240",
+        "locality": "Santa Teresita",
+        "state": "Buenos Aires",
+        "street": "Av. 32"
+      },
+      "id": "Q2NDA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -62.261864571428575,
+          -38.71813057755102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 265322483,
+        "country": "Argentina",
+        "city": "Bahía Blanca",
+        "countrycode": "AR",
+        "postcode": "B8000",
+        "county": "Cuartel I",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "165",
+        "street": "Belgrano",
+        "district": "Centro Sudeste",
+        "osm_value": "house_number",
+        "state": "Buenos Aires",
+        "name": "Wallace",
+        "description": "Resto bar, con un arcade recreado y flipper\nhttps://www.instagram.com/wallace_restobar"
+      },
+      "id": "cwMzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -58.50311694102564,
+          -34.60129603846154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_id": 305651965,
+        "country": "Argentina",
+        "countrycode": "AR",
+        "postcode": "1417",
+        "county": "Comuna 11",
+        "type": "house",
+        "osm_type": "W",
+        "osm_key": "place",
+        "housenumber": "3351",
+        "street": "Emilio Lamarca",
+        "district": "Villa del Parque",
+        "osm_value": "house_number",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "name": "ZZ Hop Cervezas",
+        "description": "Cervezas artesanales\nTiene un arcade recreado\n\nhttps://www.instagram.com/zzhop.cervezas/",
+        "city": "Ciudad Autonoma de Buenos Aires"
+      },
+      "id": "Y5NzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.1575914375,
+          -32.620063574999996
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 901263691,
+        "osm_key": "place",
+        "osm_value": "house_number",
+        "type": "house",
+        "postcode": "E3153ZAA",
+        "housenumber": "82",
+        "countrycode": "AR",
+        "country": "Argentina",
+        "city": "Victoria",
+        "street": "Alem",
+        "state": "Entre Ríos",
+        "county": "Distrito Laguna del Pescado",
+        "extent": [
+          -60.157760737500006,
+          -32.619894175,
+          -60.1572951625,
+          -32.620360025
+        ],
+        "name": "Cyber Alem",
+        "description": "Maquinas recreativas multi juegos y diversas para los chicos\nhttps://www.facebook.com/cyberalemvictoria"
+      },
+      "id": "M4OTk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37298506326531,
+          -34.61985992653061
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 400038710,
+        "osm_key": "place",
+        "osm_value": "house_number",
+        "type": "house",
+        "postcode": "C1078",
+        "housenumber": "1019",
+        "countrycode": "AR",
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "district": "San Telmo",
+        "street": "Bolívar",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "county": "Comuna 1",
+        "extent": [
+          -58.37299709591837,
+          -34.61970399183673,
+          -58.37292640408163,
+          -34.620620108163266
+        ],
+        "name": "Cristobal Games",
+        "description": "Espacio de arcades clásicos, música, barra, feria\nhttps://www.instagram.com/cristobalgames.bsas"
+      },
+      "id": "gzMzI"
+    }
+  ]
+}

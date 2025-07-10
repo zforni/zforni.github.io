@@ -1,0 +1,320 @@
+html, body, #container {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  padding-top: 50px;
+}
+
+input[type="radio"], input[type="checkbox"] {
+  margin: 0;
+}
+
+#sidebar {
+    display: block;
+    width: 250px;
+    height: 100vh;
+    max-width: 100%;
+    float: left;
+    overflow-y: auto; /* Mantenemos el overflow-y aquí */
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    padding: 60px 10px 10px; /* Aumentamos el padding superior */
+    box-sizing: border-box;
+}
+
+.form-control.search {
+    width: 100%; /* El input ocupa el 100% del ancho disponible */
+    max-width: 100px; /* Ancho máximo del input */
+}
+
+/* Media query para pantallas pequeñas */
+@media (max-width: 768px) {
+    .form-control.search {
+        max-width: 100%; /* El input ocupa el 100% del ancho en pantallas pequeñas */
+    }
+}
+
+
+.card-header .card-title {
+    font-size: 16px; /* Reducimos el tamaño de la tipografía del título */
+}
+
+.card {
+    margin-bottom: 10px; /* Añadimos margen inferior al card */
+}
+
+.card-body {
+    padding: 10px; /* Ajustamos el padding del card-body */
+}
+
+#map {
+  width: auto;
+  height: 100%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  margin-left: 250px;
+}
+
+#loading {
+  position: absolute;
+  width: 220px;
+  height: 19px;
+  top: 50%;
+  left: 50%;
+  margin: -10px 0 0 -110px;
+  z-index: 20001;
+}
+
+#features {
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+#sidebar-hide-btn {
+  margin-top: -2px;
+}
+
+#aboutTabsContent {
+  padding-top: 10px;
+}
+
+.progress-bar-full {
+  width: 100%;
+}
+
+.white {
+  color: #ffffff;
+}
+
+.feature-row {
+    cursor: pointer; /* Cambiamos el cursor a pointer */
+}
+
+.feature-row:hover {
+    background-color: #f0f0f0; /* Cambiamos el fondo al hacer hover */
+}
+
+.panel-heading, .panel-body, .feature-row {
+  width: 100%;
+}
+
+.sidebar-wrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.sidebar-table {
+    position: relative;
+    width: 100%;
+    top: auto;
+    bottom: auto;
+    overflow-y: visible; /* Cambiamos a visible para que el scroll del sidebar funcione */
+    max-height: calc(100vh - 150px);
+}
+
+.leaflet-control-layers {
+  overflow: auto;
+}
+
+.leaflet-control-layers label {
+  font-weight: normal;
+  margin-bottom: 0;
+}
+
+.leaflet-control-layers-list input[type="radio"], input[type="checkbox"] {
+  margin: 2px;
+}
+
+.table {
+  margin-bottom: 0;
+}
+
+.navbar .navbar-brand {
+  font-weight: bold;
+  font-size: 25px;
+  color: #ffffff;
+}
+/*
+.navbar-collapse.in {
+  overflow-y: hidden;
+}
+*/
+.navbar-header .navbar-icon-container {
+  margin-right: 15px;
+}
+
+.navbar-header .navbar-icon {
+  line-height: 50px;
+  height: 50px;
+}
+
+.navbar-header a.navbar-icon {
+  margin-left: 25px;
+}
+
+.typeahead {
+  background-color: #ffffff;
+}
+
+.tt-dropdown-menu {
+  background-color: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  margin-top: 4px;
+  padding: 4px 0;
+  width: 100%;
+  max-height: 300px;
+  overflow: auto;
+}
+
+.tt-suggestion {
+  font-size: 14px;
+  line-height: 20px;
+  padding: 3px 10px;
+}
+
+.tt-suggestion.tt-cursor {
+  background-color: #0097cf;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.tt-suggestion p {
+  margin: 0;
+}
+
+.tt-suggestion + .tt-suggestion {
+  border-top: 1px solid #ccc;
+}
+
+.typeahead-header {
+  margin: 0 5px 5px 5px;
+  padding: 3px 0;
+  border-bottom: 2px solid #333;
+}
+
+.has-feedback .form-control-feedback {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: block;
+  width: 34px;
+  height: 34px;
+  line-height: 34px;
+  text-align: center;
+}
+
+#search-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#searchbox {
+  flex-grow: 1;
+  height: 38px;
+}
+
+#sort-btn {
+    height: 38px;
+    width: auto;
+    padding: 6px 12px;
+    display: inline-flex;
+    align-items: center;
+}
+
+
+#sort-btn i {
+    margin-right: 5px;
+}
+
+@media (max-width: 992px) {
+  .navbar .navbar-brand {
+    font-size: 18px;
+  }
+}
+
+/*
+@media (max-width: 767px) {
+  #sidebar {
+    display: none;
+  }
+  */
+  .url-break {
+    word-break: break-all;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
+  
+  .dropdown-menu a i {
+    color: #ffffff;
+  }
+  /*
+  .navbar-nav > li.desktop-visible {
+    display: none !important;
+  }
+  */
+  .navbar-toggle {
+    display: block !important;
+  }
+}
+/*
+@media (min-width: 768px) {
+  .navbar-nav > li.desktop-visible {
+    display: block !important;
+  }
+  .navbar-toggle {
+    display: none !important;
+  }
+  
+  .navbar-nav > li.always-visible {
+    display: block !important;
+  }
+}
+*/
+/*
+@media print {
+  .navbar {
+    display: none !important;
+  }
+  
+  .leaflet-control-container {
+    display: none !important;
+  }
+}
+*/
+/* Ajustes de visibilidad para el menú */
+/*
+.navbar-nav > li.always-visible {
+  display: block !important;
+}
+
+@media (max-width: 767px) {
+  .navbar-nav > li.always-visible {
+    display: none !important;
+  }
+}
+*/
+.row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.row .col-8 {
+    padding-right: 5px;
+    flex-grow: 1; /* Permite que el input se expanda */
+}
+
+.row .col-4 {
+    padding-left: 5px;
+}
