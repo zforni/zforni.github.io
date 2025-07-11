@@ -342,7 +342,7 @@ const attributionControl = L.control({ position: "bottomright" });
 attributionControl.onAdd = () => {
   const div = L.DomUtil.create("div", "leaflet-control-attribution");
   div.innerHTML =
-    '<span class="hidden-xs">Developed by <a href="https://www.instagram.com/mapafichines">mapafichines.com.ar</a>';
+    '<span class="hidden-xs">Developed by <a href="https://www.instagram.com/mapafichines">mapafichines</a>';
   return div;
 };
 map.addControl(attributionControl);

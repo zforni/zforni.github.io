@@ -1,5 +1,5 @@
 # mapadefichines
- mapa de lugares donde encontrar videojuegos
+ mapa open source de espacios con maquinas recreativas
  
  Instagram:
  https://www.instagram.com/mapafichines
