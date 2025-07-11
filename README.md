@@ -5,7 +5,7 @@
  https://www.instagram.com/mapafichines
  
  página
- https://mapafichines.fun
+ https://www.mapafichines.com.ar
  
  Iniciativa de un grupo de cybercirujas
  
