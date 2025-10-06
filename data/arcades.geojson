@@ -403,7 +403,7 @@
         "name": "Burgertify",
         "description": "Cadena de local de hamburguesas con emuladores de arcades y consolas. Con ambientación retro gamer\nhttps://www.instagram.com/burgertify"
       },
-      "id": "E4NDA"
+      "id": "b5z8s"
     },
     {
       "type": "Feature",
@@ -862,6 +862,75 @@
         "description": "Espacio de recreativas orientado a los más chicos, actualmente tiene un fichin clásico y otros juegos más modernos"
       },
       "id": "g3MjY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37298506326531,
+          -34.61985992653061
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 400038710,
+        "osm_key": "place",
+        "osm_value": "house_number",
+        "type": "house",
+        "postcode": "C1078",
+        "housenumber": "1019",
+        "countrycode": "AR",
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "district": "San Telmo",
+        "street": "Bolívar",
+        "state": "Ciudad Autónoma de Buenos Aires",
+        "county": "Comuna 1",
+        "extent": [
+          -58.37299709591837,
+          -34.61970399183673,
+          -58.37292640408163,
+          -34.620620108163266
+        ],
+        "name": "Cristobal Games",
+        "description": "Espacio de arcades clásicos, música, barra, feria\nhttps://www.instagram.com/cristobalgames.bsas"
+      },
+      "id": "gzMzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.1575914375,
+          -32.620063574999996
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 901263691,
+        "osm_key": "place",
+        "osm_value": "house_number",
+        "type": "house",
+        "postcode": "E3153ZAA",
+        "housenumber": "82",
+        "countrycode": "AR",
+        "country": "Argentina",
+        "city": "Victoria",
+        "street": "Alem",
+        "state": "Entre Ríos",
+        "county": "Distrito Laguna del Pescado",
+        "extent": [
+          -60.157760737500006,
+          -32.619894175,
+          -60.1572951625,
+          -32.620360025
+        ],
+        "name": "Cyber Alem",
+        "description": "Maquinas recreativas multi juegos y diversas para los chicos\nhttps://www.facebook.com/cyberalemvictoria"
+      },
+      "id": "M4OTk"
     },
     {
       "type": "Feature",
@@ -2059,7 +2128,7 @@
         "name": "The King Video Juegos",
         "description": "The King Video Juegos es un espacio con arcades clásicos y fichines"
       },
-      "id": "MxNTU"
+      "id": "R2K9D"
     },
     {
       "type": "Feature",
@@ -2295,69 +2364,152 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -60.1575914375,
-          -32.620063574999996
+          -58.37309747959184,
+          -34.618251571428566
         ]
       },
       "properties": {
         "osm_type": "W",
-        "osm_id": 901263691,
+        "osm_id": 335849630,
         "osm_key": "place",
         "osm_value": "house_number",
         "type": "house",
-        "postcode": "E3153ZAA",
-        "housenumber": "82",
+        "postcode": "C1100AAF",
+        "housenumber": "883",
         "countrycode": "AR",
         "country": "Argentina",
-        "city": "Victoria",
-        "street": "Alem",
-        "state": "Entre Ríos",
-        "county": "Distrito Laguna del Pescado",
+        "district": "San Telmo",
+        "street": "Bolívar",
+        "state": "Autonomous City of Buenos Aires",
+        "county": "Comuna 1",
         "extent": [
-          -60.157760737500006,
-          -32.619894175,
-          -60.1572951625,
-          -32.620360025
+          -58.37312637755102,
+          -34.61736242857143,
+          -58.373092422448984,
+          -34.618407171428565
         ],
-        "name": "Cyber Alem",
-        "description": "Maquinas recreativas multi juegos y diversas para los chicos\nhttps://www.facebook.com/cyberalemvictoria"
+        "name": "Galeria Masao",
+        "description": "Galería de arte que cuenta con un arcade recreado"
       },
-      "id": "M4OTk"
+      "id": "FeBxo"
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.37298506326531,
-          -34.61985992653061
+          -58.4233104,
+          -34.613913600000004
         ]
       },
       "properties": {
         "osm_type": "W",
-        "osm_id": 400038710,
+        "osm_id": 275118608,
         "osm_key": "place",
         "osm_value": "house_number",
         "type": "house",
-        "postcode": "C1078",
-        "housenumber": "1019",
+        "postcode": "1206",
+        "housenumber": "125",
         "countrycode": "AR",
         "country": "Argentina",
-        "city": "Buenos Aires",
-        "district": "San Telmo",
-        "street": "Bolívar",
-        "state": "Ciudad Autónoma de Buenos Aires",
-        "county": "Comuna 1",
+        "district": "Almagro",
+        "street": "Quintino Bocayuva",
+        "state": "Autonomous City of Buenos Aires",
+        "county": "Comuna 5",
         "extent": [
-          -58.37299709591837,
-          -34.61970399183673,
-          -58.37292640408163,
-          -34.620620108163266
+          -58.42335980833334,
+          -34.61374264166667,
+          -58.423260991666666,
+          -34.61408455833333
         ],
-        "name": "Cristobal Games",
-        "description": "Espacio de arcades clásicos, música, barra, feria\nhttps://www.instagram.com/cristobalgames.bsas"
+        "name": "Arkasim",
+        "description": "Espacio con arcades, arcades modernos, videojuegos modernos, pool, cerveza"
       },
-      "id": "gzMzI"
+      "id": "rXwGs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -57.930051,
+          -30.980608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Federación",
+        "country": "Argentina",
+        "housenumber": "1355",
+        "street": "Paraná",
+        "district": "Federación",
+        "state": "Entre Rios",
+        "name": "Infinite Play",
+        "locality": "Federación",
+        "description": "Espacio de juegos con recreativas modernas"
+      },
+      "id": "6pmCc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8435058,
+          -32.8691386
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5701073983,
+        "osm_key": "amenity",
+        "osm_value": "community_centre",
+        "type": "house",
+        "postcode": "5500",
+        "housenumber": "2960",
+        "countrycode": "AR",
+        "name": "Terra Magica",
+        "country": "Argentina",
+        "street": "Perú",
+        "state": "Mendoza",
+        "county": "Sección 1ª Parque Central",
+        "description": "Salon de juego para chicos con algunos arcades"
+      },
+      "id": "rxncB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.53478134076363,
+          -34.729844787776734
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 774098063,
+        "osm_key": "highway",
+        "osm_value": "tertiary",
+        "type": "street",
+        "postcode": "B1778FQA",
+        "countrycode": "AR",
+        "name": "BUNKER CITY",
+        "country": "Argentina",
+        "city": "Ciudad Evita",
+        "state": "Buenos Aires",
+        "county": "Partido de La Matanza",
+        "extent": [
+          -58.5348081,
+          -34.7290024,
+          -58.5344258,
+          -34.7306116
+        ],
+        "description": "BUNKER CITY, multi espacio gamer, con consolas, computadoras, arcades y otros juegos, salon de juegos para eventos",
+        "locality": "Ciudad Evita",
+        "housenumber": "3719",
+        "street": "Reinalda B. de Rodríguez"
+      },
+      "id": "fLMrV"
     }
   ]
 }
