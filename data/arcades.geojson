@@ -214,6 +214,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.4233104,
+          -34.613913600000004
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 275118608,
+        "osm_key": "place",
+        "osm_value": "house_number",
+        "type": "house",
+        "postcode": "1206",
+        "housenumber": "125",
+        "countrycode": "AR",
+        "country": "Argentina",
+        "district": "Almagro",
+        "street": "Quintino Bocayuva",
+        "state": "Autonomous City of Buenos Aires",
+        "county": "Comuna 5",
+        "extent": [
+          -58.42335980833334,
+          -34.61374264166667,
+          -58.423260991666666,
+          -34.61408455833333
+        ],
+        "name": "Arkasim",
+        "description": "Espacio con arcades, arcades modernos, videojuegos modernos, pool, cerveza"
+      },
+      "id": "rXwGs"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.422922,
           -34.593401
         ]
@@ -348,6 +382,41 @@
         "description": "Bar temático de juegos, con fichines, flippers"
       },
       "id": "I5NzI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.53478134076363,
+          -34.729844787776734
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 774098063,
+        "osm_key": "highway",
+        "osm_value": "tertiary",
+        "type": "street",
+        "postcode": "B1778FQA",
+        "countrycode": "AR",
+        "name": "BUNKER CITY",
+        "country": "Argentina",
+        "city": "Ciudad Evita",
+        "state": "Buenos Aires",
+        "county": "Partido de La Matanza",
+        "extent": [
+          -58.5348081,
+          -34.7290024,
+          -58.5344258,
+          -34.7306116
+        ],
+        "description": "BUNKER CITY, multi espacio gamer, con consolas, computadoras, arcades y otros juegos, salon de juegos para eventos",
+        "locality": "Ciudad Evita",
+        "housenumber": "3719",
+        "street": "Reinalda B. de Rodríguez"
+      },
+      "id": "fLMrV"
     },
     {
       "type": "Feature",
@@ -1198,6 +1267,40 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37309747959184,
+          -34.618251571428566
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 335849630,
+        "osm_key": "place",
+        "osm_value": "house_number",
+        "type": "house",
+        "postcode": "C1100AAF",
+        "housenumber": "883",
+        "countrycode": "AR",
+        "country": "Argentina",
+        "district": "San Telmo",
+        "street": "Bolívar",
+        "state": "Autonomous City of Buenos Aires",
+        "county": "Comuna 1",
+        "extent": [
+          -58.37312637755102,
+          -34.61736242857143,
+          -58.373092422448984,
+          -34.618407171428565
+        ],
+        "name": "Galeria Masao",
+        "description": "Galería de arte que cuenta con un arcade recreado"
+      },
+      "id": "FeBxo"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "coordinates": [
           -60.6698642,
           -32.9594327
@@ -1343,6 +1446,28 @@
         "description": "Espacio con bastantes arcades clásicos, pinballs y pool\n\nC. 2 n° 777, B7107 Santa Teresita, Provincia de Buenos Aires"
       },
       "id": "MyNzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -57.930051,
+          -30.980608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "city": "Federación",
+        "country": "Argentina",
+        "housenumber": "1355",
+        "street": "Paraná",
+        "district": "Federación",
+        "state": "Entre Rios",
+        "name": "Infinite Play",
+        "locality": "Federación",
+        "description": "Espacio de juegos con recreativas modernas"
+      },
+      "id": "6pmCc"
     },
     {
       "type": "Feature",
@@ -2104,6 +2229,33 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8435058,
+          -32.8691386
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5701073983,
+        "osm_key": "amenity",
+        "osm_value": "community_centre",
+        "type": "house",
+        "postcode": "5500",
+        "housenumber": "2960",
+        "countrycode": "AR",
+        "name": "Terra Magica",
+        "country": "Argentina",
+        "street": "Perú",
+        "state": "Mendoza",
+        "county": "Sección 1ª Parque Central",
+        "description": "Salon de juego para chicos con algunos arcades"
+      },
+      "id": "rxncB"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "coordinates": [
           -57.5441063,
           -38.0032138
@@ -2362,154 +2514,153 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -58.37309747959184,
-          -34.618251571428566
-        ]
-      },
-      "properties": {
-        "osm_type": "W",
-        "osm_id": 335849630,
-        "osm_key": "place",
-        "osm_value": "house_number",
-        "type": "house",
-        "postcode": "C1100AAF",
-        "housenumber": "883",
-        "countrycode": "AR",
-        "country": "Argentina",
-        "district": "San Telmo",
-        "street": "Bolívar",
-        "state": "Autonomous City of Buenos Aires",
-        "county": "Comuna 1",
-        "extent": [
-          -58.37312637755102,
-          -34.61736242857143,
-          -58.373092422448984,
-          -34.618407171428565
-        ],
-        "name": "Galeria Masao",
-        "description": "Galería de arte que cuenta con un arcade recreado"
-      },
-      "id": "FeBxo"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.4233104,
-          -34.613913600000004
-        ]
-      },
-      "properties": {
-        "osm_type": "W",
-        "osm_id": 275118608,
-        "osm_key": "place",
-        "osm_value": "house_number",
-        "type": "house",
-        "postcode": "1206",
-        "housenumber": "125",
-        "countrycode": "AR",
-        "country": "Argentina",
-        "district": "Almagro",
-        "street": "Quintino Bocayuva",
-        "state": "Autonomous City of Buenos Aires",
-        "county": "Comuna 5",
-        "extent": [
-          -58.42335980833334,
-          -34.61374264166667,
-          -58.423260991666666,
-          -34.61408455833333
-        ],
-        "name": "Arkasim",
-        "description": "Espacio con arcades, arcades modernos, videojuegos modernos, pool, cerveza"
-      },
-      "id": "rXwGs"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -57.930051,
-          -30.980608
+          -56.678446,
+          -36.683574
         ],
         "type": "Point"
       },
       "properties": {
-        "city": "Federación",
         "country": "Argentina",
-        "housenumber": "1355",
-        "street": "Paraná",
-        "district": "Federación",
-        "state": "Entre Rios",
-        "name": "Infinite Play",
-        "locality": "Federación",
-        "description": "Espacio de juegos con recreativas modernas"
+        "city": "San bernardo del tuyú",
+        "housenumber": "3008",
+        "street": "J C Chiozza ",
+        "district": "Partido de la Costa",
+        "state": "Buenos Aires",
+        "description": "Arcades clásicos, juegos para chicos y pool",
+        "name": "Pool Black Machine Juegos"
       },
-      "id": "6pmCc"
+      "id": "9e6kb"
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.8435058,
-          -32.8691386
-        ]
-      },
-      "properties": {
-        "osm_type": "N",
-        "osm_id": 5701073983,
-        "osm_key": "amenity",
-        "osm_value": "community_centre",
-        "type": "house",
-        "postcode": "5500",
-        "housenumber": "2960",
-        "countrycode": "AR",
-        "name": "Terra Magica",
-        "country": "Argentina",
-        "street": "Perú",
-        "state": "Mendoza",
-        "county": "Sección 1ª Parque Central",
-        "description": "Salon de juego para chicos con algunos arcades"
-      },
-      "id": "rxncB"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.53478134076363,
-          -34.729844787776734
+          -58.51376745306123,
+          -34.53112894489796
         ]
       },
       "properties": {
         "osm_type": "W",
-        "osm_id": 774098063,
-        "osm_key": "highway",
-        "osm_value": "tertiary",
-        "type": "street",
-        "postcode": "B1778FQA",
+        "osm_key": "place",
+        "osm_value": "house_number",
+        "type": "house",
+        "postcode": "1605",
+        "housenumber": "2035",
         "countrycode": "AR",
-        "name": "BUNKER CITY",
         "country": "Argentina",
-        "city": "Ciudad Evita",
+        "city": "Vicente López",
+        "district": "Munro",
+        "street": "Avenida Bartolomé Mitre",
         "state": "Buenos Aires",
-        "county": "Partido de La Matanza",
+        "county": "Partido de Vicente López",
         "extent": [
-          -58.5348081,
-          -34.7290024,
-          -58.5344258,
-          -34.7306116
+          -58.51446122040816,
+          -34.530656732653064,
+          -58.51340937959184,
+          -34.531372667346936
         ],
-        "description": "BUNKER CITY, multi espacio gamer, con consolas, computadoras, arcades y otros juegos, salon de juegos para eventos",
-        "locality": "Ciudad Evita",
-        "housenumber": "3719",
-        "street": "Reinalda B. de Rodríguez"
+        "description": "Athor club bar, con fichines y pool\nhttps://www.instagram.com/athor.club.bar",
+        "name": "Athor Bar"
       },
-      "id": "fLMrV"
+      "id": "CmB22"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.56454135,
+          -34.607956441666666
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 679066682,
+        "osm_key": "place",
+        "osm_value": "house_number",
+        "type": "house",
+        "postcode": "B1678ABJ",
+        "housenumber": "4830",
+        "countrycode": "AR",
+        "country": "Argentina",
+        "city": "Caseros",
+        "street": "610 - Mariano Moreno",
+        "state": "Buenos Aires",
+        "county": "Partido de Tres de Febrero",
+        "extent": [
+          -58.564771075,
+          -34.60794605416667,
+          -58.564209524999995,
+          -34.60797144583333
+        ],
+        "name": "Athor Bar",
+        "description": "Athor club bar, con fichines y pool\nhttps://www.instagram.com/athor.club.bar"
+      },
+      "id": "XUxWx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5661744,
+          -34.4577498
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 4675691550,
+        "osm_key": "office",
+        "osm_value": "company",
+        "type": "house",
+        "postcode": "B1645CPE",
+        "housenumber": "3130",
+        "countrycode": "AR",
+        "name": "Zombie land",
+        "country": "Argentina",
+        "city": "Virreyes",
+        "street": "Avenida Nicolás Avellaneda",
+        "state": "Buenos Aires",
+        "county": "Partido de San Fernando",
+        "description": "Recreativas para los más chicos con algún que otro pinball\nhttps://www.instagram.com/zombieland.virreyes/"
+      },
+      "id": "ypBCr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.49378719183673,
+          -34.60351426734694
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 306169120,
+        "osm_key": "place",
+        "osm_value": "house_number",
+        "type": "house",
+        "postcode": "C1417",
+        "housenumber": "2838",
+        "countrycode": "AR",
+        "country": "Argentina",
+        "district": "Villa del Parque",
+        "street": "Cuenca",
+        "state": "Autonomous City of Buenos Aires",
+        "county": "Comuna 11",
+        "extent": [
+          -58.494115844897955,
+          -34.60306187959184,
+          -58.49360095510204,
+          -34.60377062040816
+        ],
+        "name": "Respawn - Ciber Gaming",
+        "description": "Un cyber moderno, para jugar con computadoras, espacio gamer, sin fichines\n\nhttps://www.instagram.com/respawn.ciber/"
+      },
+      "id": "JKzAg"
     }
   ]
 }
