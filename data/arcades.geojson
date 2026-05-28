@@ -248,6 +248,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -58.51376745306123,
+          -34.53112894489796
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_key": "place",
+        "osm_value": "house_number",
+        "type": "house",
+        "postcode": "1605",
+        "housenumber": "2035",
+        "countrycode": "AR",
+        "country": "Argentina",
+        "city": "Vicente López",
+        "district": "Munro",
+        "street": "Avenida Bartolomé Mitre",
+        "state": "Buenos Aires",
+        "county": "Partido de Vicente López",
+        "extent": [
+          -58.51446122040816,
+          -34.530656732653064,
+          -58.51340937959184,
+          -34.531372667346936
+        ],
+        "description": "Athor club bar, con fichines y pool\nhttps://www.instagram.com/athor.club.bar",
+        "name": "Athor Bar"
+      },
+      "id": "CmB22"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.56454135,
+          -34.607956441666666
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 679066682,
+        "osm_key": "place",
+        "osm_value": "house_number",
+        "type": "house",
+        "postcode": "B1678ABJ",
+        "housenumber": "4830",
+        "countrycode": "AR",
+        "country": "Argentina",
+        "city": "Caseros",
+        "street": "610 - Mariano Moreno",
+        "state": "Buenos Aires",
+        "county": "Partido de Tres de Febrero",
+        "extent": [
+          -58.564771075,
+          -34.60794605416667,
+          -58.564209524999995,
+          -34.60797144583333
+        ],
+        "name": "Athor Bar",
+        "description": "Athor club bar, con fichines y pool\nhttps://www.instagram.com/athor.club.bar"
+      },
+      "id": "XUxWx"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -58.422922,
           -34.593401
         ]
@@ -780,7 +848,7 @@
       },
       "properties": {
         "name": "Club 404",
-        "description": "En el subsuelo del centro cultural Tacheles, hay una colección de arcades clásicos originales, así como nuevos arcades nacionales, juegos nuevos, emulados, customizados, etc. Está disponible su visita en eventos determinados\nhttps://www.instagram.com/club__404/",
+        "description": "En el subsuelo del centro cultural Tacheles, hay una colección de arcades clásicos originale. Está disponible su visita en eventos determinados\nhttps://www.instagram.com/club__404/",
         "city": "CABA",
         "country": "Argentina",
         "district": "caba",
@@ -931,41 +999,6 @@
         "description": "Espacio de recreativas orientado a los más chicos, actualmente tiene un fichin clásico y otros juegos más modernos"
       },
       "id": "g3MjY"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.37298506326531,
-          -34.61985992653061
-        ]
-      },
-      "properties": {
-        "osm_type": "W",
-        "osm_id": 400038710,
-        "osm_key": "place",
-        "osm_value": "house_number",
-        "type": "house",
-        "postcode": "C1078",
-        "housenumber": "1019",
-        "countrycode": "AR",
-        "country": "Argentina",
-        "city": "Buenos Aires",
-        "district": "San Telmo",
-        "street": "Bolívar",
-        "state": "Ciudad Autónoma de Buenos Aires",
-        "county": "Comuna 1",
-        "extent": [
-          -58.37299709591837,
-          -34.61970399183673,
-          -58.37292640408163,
-          -34.620620108163266
-        ],
-        "name": "Cristobal Games",
-        "description": "Espacio de arcades clásicos, música, barra, feria\nhttps://www.instagram.com/cristobalgames.bsas"
-      },
-      "id": "gzMzI"
     },
     {
       "type": "Feature",
@@ -1967,6 +2000,27 @@
     {
       "type": "Feature",
       "geometry": {
+        "coordinates": [
+          -56.678446,
+          -36.683574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "country": "Argentina",
+        "city": "San bernardo del tuyú",
+        "housenumber": "3008",
+        "street": "J C Chiozza ",
+        "district": "Partido de la Costa",
+        "state": "Buenos Aires",
+        "description": "Arcades clásicos, juegos para chicos y pool",
+        "name": "Pool Black Machine Juegos"
+      },
+      "id": "9e6kb"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -58.09275,
@@ -2003,6 +2057,40 @@
         "housenumber": "302 "
       },
       "id": "YxNzM"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.49378719183673,
+          -34.60351426734694
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 306169120,
+        "osm_key": "place",
+        "osm_value": "house_number",
+        "type": "house",
+        "postcode": "C1417",
+        "housenumber": "2838",
+        "countrycode": "AR",
+        "country": "Argentina",
+        "district": "Villa del Parque",
+        "street": "Cuenca",
+        "state": "Autonomous City of Buenos Aires",
+        "county": "Comuna 11",
+        "extent": [
+          -58.494115844897955,
+          -34.60306187959184,
+          -58.49360095510204,
+          -34.60377062040816
+        ],
+        "name": "Respawn - Ciber Gaming",
+        "description": "Un cyber moderno, para jugar con computadoras, espacio gamer, sin fichines\n\nhttps://www.instagram.com/respawn.ciber/"
+      },
+      "id": "JKzAg"
     },
     {
       "type": "Feature",
@@ -2485,6 +2573,34 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5661744,
+          -34.4577498
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 4675691550,
+        "osm_key": "office",
+        "osm_value": "company",
+        "type": "house",
+        "postcode": "B1645CPE",
+        "housenumber": "3130",
+        "countrycode": "AR",
+        "name": "Zombie land",
+        "country": "Argentina",
+        "city": "Virreyes",
+        "street": "Avenida Nicolás Avellaneda",
+        "state": "Buenos Aires",
+        "county": "Partido de San Fernando",
+        "description": "Recreativas para los más chicos con algún que otro pinball\nhttps://www.instagram.com/zombieland.virreyes/"
+      },
+      "id": "ypBCr"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "coordinates": [
           -58.50311694102564,
           -34.60129603846154
@@ -2514,153 +2630,36 @@
     {
       "type": "Feature",
       "geometry": {
-        "coordinates": [
-          -56.678446,
-          -36.683574
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "country": "Argentina",
-        "city": "San bernardo del tuyú",
-        "housenumber": "3008",
-        "street": "J C Chiozza ",
-        "district": "Partido de la Costa",
-        "state": "Buenos Aires",
-        "description": "Arcades clásicos, juegos para chicos y pool",
-        "name": "Pool Black Machine Juegos"
-      },
-      "id": "9e6kb"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.51376745306123,
-          -34.53112894489796
+          -58.396434797872345,
+          -34.59872258510638
         ]
       },
       "properties": {
         "osm_type": "W",
+        "osm_id": 366403591,
         "osm_key": "place",
         "osm_value": "house_number",
         "type": "house",
-        "postcode": "1605",
-        "housenumber": "2035",
-        "countrycode": "AR",
-        "country": "Argentina",
-        "city": "Vicente López",
-        "district": "Munro",
-        "street": "Avenida Bartolomé Mitre",
-        "state": "Buenos Aires",
-        "county": "Partido de Vicente López",
-        "extent": [
-          -58.51446122040816,
-          -34.530656732653064,
-          -58.51340937959184,
-          -34.531372667346936
-        ],
-        "description": "Athor club bar, con fichines y pool\nhttps://www.instagram.com/athor.club.bar",
-        "name": "Athor Bar"
-      },
-      "id": "CmB22"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.56454135,
-          -34.607956441666666
-        ]
-      },
-      "properties": {
-        "osm_type": "W",
-        "osm_id": 679066682,
-        "osm_key": "place",
-        "osm_value": "house_number",
-        "type": "house",
-        "postcode": "B1678ABJ",
-        "housenumber": "4830",
-        "countrycode": "AR",
-        "country": "Argentina",
-        "city": "Caseros",
-        "street": "610 - Mariano Moreno",
-        "state": "Buenos Aires",
-        "county": "Partido de Tres de Febrero",
-        "extent": [
-          -58.564771075,
-          -34.60794605416667,
-          -58.564209524999995,
-          -34.60797144583333
-        ],
-        "name": "Athor Bar",
-        "description": "Athor club bar, con fichines y pool\nhttps://www.instagram.com/athor.club.bar"
-      },
-      "id": "XUxWx"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.5661744,
-          -34.4577498
-        ]
-      },
-      "properties": {
-        "osm_type": "N",
-        "osm_id": 4675691550,
-        "osm_key": "office",
-        "osm_value": "company",
-        "type": "house",
-        "postcode": "B1645CPE",
-        "housenumber": "3130",
-        "countrycode": "AR",
-        "name": "Zombie land",
-        "country": "Argentina",
-        "city": "Virreyes",
-        "street": "Avenida Nicolás Avellaneda",
-        "state": "Buenos Aires",
-        "county": "Partido de San Fernando",
-        "description": "Recreativas para los más chicos con algún que otro pinball\nhttps://www.instagram.com/zombieland.virreyes/"
-      },
-      "id": "ypBCr"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.49378719183673,
-          -34.60351426734694
-        ]
-      },
-      "properties": {
-        "osm_type": "W",
-        "osm_id": 306169120,
-        "osm_key": "place",
-        "osm_value": "house_number",
-        "type": "house",
-        "postcode": "C1417",
-        "housenumber": "2838",
-        "countrycode": "AR",
-        "country": "Argentina",
-        "district": "Villa del Parque",
-        "street": "Cuenca",
+        "housenumber": "2034",
+        "street": "Paraguay",
+        "locality": "Barrio Norte",
+        "district": "Recoleta",
+        "county": "Comuna 2",
         "state": "Autonomous City of Buenos Aires",
-        "county": "Comuna 11",
+        "country": "Argentina",
+        "postcode": "C1120AAC",
+        "countrycode": "AR",
         "extent": [
-          -58.494115844897955,
-          -34.60306187959184,
-          -58.49360095510204,
-          -34.60377062040816
+          -58.3971949,
+          -34.5986481,
+          -58.3960785,
+          -34.5987575
         ],
-        "name": "Respawn - Ciber Gaming",
-        "description": "Un cyber moderno, para jugar con computadoras, espacio gamer, sin fichines\n\nhttps://www.instagram.com/respawn.ciber/"
+        "description": "Galería Masao\nTiene un arcade al ingreso de la galería al lado de la barra"
       },
-      "id": "JKzAg"
+      "id": "ZHXQC"
     }
   ]
 }
