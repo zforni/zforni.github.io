@@ -1300,40 +1300,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.37309747959184,
-          -34.618251571428566
-        ]
-      },
-      "properties": {
-        "osm_type": "W",
-        "osm_id": 335849630,
-        "osm_key": "place",
-        "osm_value": "house_number",
-        "type": "house",
-        "postcode": "C1100AAF",
-        "housenumber": "883",
-        "countrycode": "AR",
-        "country": "Argentina",
-        "district": "San Telmo",
-        "street": "Bolívar",
-        "state": "Autonomous City of Buenos Aires",
-        "county": "Comuna 1",
-        "extent": [
-          -58.37312637755102,
-          -34.61736242857143,
-          -58.373092422448984,
-          -34.618407171428565
-        ],
-        "name": "Galeria Masao",
-        "description": "Galería de arte que cuenta con un arcade recreado"
-      },
-      "id": "FeBxo"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "coordinates": [
           -60.6698642,
           -32.9594327
